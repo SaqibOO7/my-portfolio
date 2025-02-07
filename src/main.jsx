@@ -3,7 +3,6 @@ import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
 import { ModeContextProvider } from './context/ModeContext.jsx'
-import Tester from './Tester.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
