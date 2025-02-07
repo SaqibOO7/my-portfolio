@@ -1,6 +1,5 @@
 import React from "react";
-import Button from "../button/Button";
-import ModalCard from "./Modalcard";
+import ModalCard from "./ModalCard"
 
 function ProjectCard({
     title,
