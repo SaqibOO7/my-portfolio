@@ -1,5 +1,3 @@
-import React from "react";
-
 function Icons({
   Icon,
   height="h-10",
